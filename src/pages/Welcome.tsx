@@ -14,7 +14,7 @@ function Welcom() {
                       Information
                     </p>
                     <p className="text-sm text-muted-foreground">
-                      {">"} Get some popcorn and explore the app by selecting pages from the sidebar or tfrom top bar if you're using a mobile device.
+                      {">"} Get some popcorn and explore the app by selecting pages from the sidebar or from top bar if you're using a mobile device.
                       
                     </p>
                   </div>
